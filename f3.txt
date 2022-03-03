@@ -1,0 +1,15 @@
+class Test2{
+
+public static void main(String[] args){
+    int number1 = 0;
+    int number2 = 0;
+    int sum = 0;
+    
+    Scanner scan = new Scanner(System.in);
+
+
+
+}
+
+
+}
